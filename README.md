@@ -1,4 +1,4 @@
----
+--- |
 
 Cross Country Salary Management System
 
